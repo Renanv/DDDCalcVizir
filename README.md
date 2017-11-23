@@ -4,8 +4,11 @@ A calculation for national calling taxes with a sort of subscription.
 Below you can find the manual to installing the "app":
 
 1.Set the given file on a local environment.
+
 2.Open the browser and browse to the file, if you're using XAMPP, in that case would be: localhost/index.php.
-3.For testing you are able to try many possibilities, but with that said I'll give some test cases:
+
+3.For testing you are able to try many possibilities, but with that said I've made some test cases:
+
 Origin: 011
 Destination: 017
 Time spent calling: 80
